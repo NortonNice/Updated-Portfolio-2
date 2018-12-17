@@ -1,0 +1,88 @@
+#carouselExampleIndicators {
+    
+    width: 518px;
+    height: 300px;
+}
+
+.carousel-inner {
+    
+    width: 518px;
+    height: 253px;
+}
+
+.card-text{
+    text-align: center;
+}
+
+body {
+    background-image: url(./images/tealRust.jpg);
+}
+
+#portfolioBody{
+    background-image: url(./images/subtle-grunge-texture-6.jpg);
+}
+
+#contactBody {
+    background-image: url(./images/subtle-grunge-texture-6.jpg);
+}
+
+.navbar-brand {
+    padding-left: 850px;
+}
+
+h3 {
+    background-color: rgba(247, 237, 226, 0.329);
+    font-size: 40px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+#cardCont {
+/*border: 1px solid red;*/
+font-weight: 625;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+}
+
+.card-body {
+    background-color: rgba(250, 249, 232, 0.308);
+}
+
+#cardHead {
+    background-color: rgba(172, 20, 0, 0.322);
+}
+#contactCardBody {
+    
+    background-color: rgba(207, 183, 243, 0.185);
+}
+
+#contactCardText{
+    text-align: right;
+}
+
+#bioCardText {
+    text-align: left;
+}
+
+#emailButton {
+    background-color: rgba(172, 20, 0, 0.897);
+}
+
+#linkedInButton {
+    background-color: rgb(64, 64, 250);
+}
+#portCardFooter {
+    text-align: center;
+    
+}
+#portLink {
+    color: blue;
+}
+
+#chip {
+    width: auto;
+    opacity: 0.3;
+}
